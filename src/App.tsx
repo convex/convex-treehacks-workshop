@@ -13,8 +13,8 @@ export default function App() {
           Welcome! Let's get building with Convex.
           <br />
           The code is at{" "}
-          <a href="https://github.com/get-convex/convex-treehacks-workshop">
-            https://github.com/get-convex/convex-treehacks-workshop
+          <a href="https://github.com/convex/convex-treehacks-workshop">
+            https://github.com/convex/convex-treehacks-workshop
           </a>
           <br />
           You can join #convex in the TreeHacks slack for help.
@@ -28,7 +28,7 @@ export default function App() {
               get something running on your machine.
             </li>
             <li>
-              <a href="https://github.com/get-convex/convex-demos">
+              <a href="https://github.com/convex/convex-demos">
                 Demos Repo
               </a>
               : Examples for reference or to use as a template.
@@ -43,7 +43,7 @@ export default function App() {
               <a href="https://stack.convex.dev/">Reference Articles</a>
             </li>
             <li>
-              <a href="https://github.com/get-convex/convex-helpers/">
+              <a href="https://github.com/convex/convex-helpers/">
                 My Helper Repo
               </a>
             </li>
